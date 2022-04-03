@@ -2,7 +2,7 @@
 
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am Matt "ACE" Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full Stack Developer.
+I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full Stack Developer.
 
 - 🔭 I’m currently working on my Bachelor's Degree in Web Development
 - 🌱 I’m currently learning JavaScript

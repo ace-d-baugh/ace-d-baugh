@@ -5,7 +5,7 @@
 I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full Stack Developer.
 
 - 🔭 I’m currently working on my Bachelor's Degree in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and C#
 - 📫 How to reach me: ace.d.baugh@gmail.com
 - ⚡ Fun fact: I can shake my eyes rapidly :eyes:
 

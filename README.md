@@ -6,7 +6,7 @@ I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full S
 
 - 🔭 I’m currently working on my Bachelor's Degree in Web Development
 - 🌱 I’m currently learning JavaScript and C#
-- 📫 How to reach me: ace.d.baugh@gmail.com
+- 📫 How to reach me: ace@digitalelegance.com
 - ⚡ Fun fact: I can shake my eyes rapidly :eyes:
 
 ### Top Technologies
@@ -25,17 +25,6 @@ I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full S
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=plastic&labelColor=222&logo=mysql&logoColor=white)](#) 
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&labelColor=222&logo=netlify&logoColor=00C7B7)](#) 
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=plastic&labelColor=222&logo=heroku&logoColor=430098)](#)
-
-<!--
-**ace-d-baugh/ace-d-baugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
 
 <details>
 

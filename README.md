@@ -4,8 +4,8 @@
 
 I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full Stack Developer.
 
-- 🔭 I’m currently working on my Bachelor's Degree in Web Development
-- 🌱 I’m currently learning JavaScript and C#
+- 🔭 I have a Bachelor's Degree in Full Stack Web Development
+- 🌱 I’m currently learning .NET C# MVC
 - 📫 How to reach me: ace@digitalelegance.com
 - ⚡ Fun fact: I can shake my eyes rapidly :eyes:
 

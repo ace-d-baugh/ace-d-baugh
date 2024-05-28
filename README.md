@@ -24,9 +24,12 @@ I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full S
 #### Other Technologies
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&labelColor=222&logo=bootstrap&logoColor=563D7C)](#) 
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=plastic&labelColor=222&logo=php&logoColor=777BB4)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=plastic&labelColor=222&logo=mongodb&logoColor=47A248)](#) 
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=plastic&labelColor=222&logo=mysql&logoColor=white)](#) 
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&labelColor=222&logo=netlify&logoColor=00C7B7)](#) 
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=plastic&labelColor=222&logo=heroku&logoColor=430098)](#)
+[![Railway Badge](https://img.shields.io/badge/Railway-0B0D0E?style=plastic&labelColor=222&logo=railway&logoColor=0B0D0E)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&labelColor=222&logo=postgresql&logoColor=4169E1)](#)
 
 <details>
 

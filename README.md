@@ -15,7 +15,7 @@ I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full S
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=plastic&labelColor=222&logo=html5&logoColor=E34F26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=plastic&labelColor=222&logo=css3&logoColor=1572B6)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=plastic&labelColor=222&logo=JavaScript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&labelColor=222&logo=typescript&logoColor=3178C6)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=plastic&labelColor=222&logo=react&logoColor=61DBFB)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=plastic&labelColor=222&logo=node.js&logoColor=3C873A)](#)
 [![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=plastic&labelColor=222&logo=.NET&logoColor=512BD4)](#)

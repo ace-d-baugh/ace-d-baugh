@@ -4,7 +4,8 @@
 
 I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full Stack Developer.
 
-- 🔭 I have a Bachelor's Degree in Full Stack Web Development
+- 🏰 I currently work for The Walt Disney Company as a Full Stack Developer
+- 🎓 I have a Bachelor's Degree in Full Stack Web Development
 - 🌱 I’m currently learning .NET C# MVC
 - 📫 How to reach me: ace@digitalelegance.com
 - ⚡ Fun fact: I can shake my eyes rapidly :eyes:
@@ -36,8 +37,6 @@ I am Ace Baugh. I am a Fine Art Photographer, Fine Code Programmer, and a Full S
 <summary>
   More stuff about me
 </summary>
-
-[![Ace's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace-d-baugh&theme=great-gatsby&title_color=d0b64f&text_color=FFF&bg_color=45,222,444,222&border_color=d0b64f&border_radius=20&show_icons=true&icon_color=d0b64f&&hide=contribs,prs)](https://github.com/ace-d-baugh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-d-baugh&theme=great-gatsby&title_color=d0b64f&text_color=FFF&bg_color=45,222,444,222&border_color=d0b64f&border_radius=20&show_icons=true&icon_color=d0b64f)](https://github.com/ace-d-baugh/github-readme-stats)
 
